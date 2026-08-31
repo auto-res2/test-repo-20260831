@@ -6,10 +6,7 @@
 name = "experiment"
 version = "0.1.0"
 requires-python = ">=3.11"
-dependencies = [
-    "hydra-core",
-    "wandb",
-]
+dependencies = []
 
 # `src/` is run with `uv run python -m src.main` from the repository root,
 # never installed as a distribution, so this project is not a package.
